@@ -1,0 +1,2 @@
+# Shell-Skripte brauchen Unix-Zeilenenden, auch wenn sie unter Windows ausgecheckt werden
+*.sh text eol=lf
